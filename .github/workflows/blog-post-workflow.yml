@@ -1,0 +1,25 @@
+name: Latest Blog Posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://4evour.github.io/rss.xml"
+          max_post_count: 5
+          template: "$newline- [$title]($url)"
+          commit_message: "docs: update latest blog posts"
