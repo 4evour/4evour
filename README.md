@@ -32,7 +32,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [test1](https://4evour.github.io/post/test1.html)<!-- BLOG-POST-LIST:END -->
 
 ## Contributions
 
