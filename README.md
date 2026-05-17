@@ -32,7 +32,10 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [test1](https://4evour.github.io/post/test1.html)<!-- BLOG-POST-LIST:END -->
+- [我做了一个景区智能导览系统](https://4evour.github.io/blog/scenic-guide-architecture/)
+- [我把 Live2D 数字人接进了导览系统](https://4evour.github.io/blog/scenic-guide-digital-human/)
+- [我在景区导览项目里怎么做 RAG](https://4evour.github.io/blog/scenic-guide-rag/)
+- [test1](https://4evour.github.io/blog/test1/)<!-- BLOG-POST-LIST:END -->
 
 ## Contributions
 
