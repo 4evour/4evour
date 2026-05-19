@@ -32,10 +32,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tour Pass 里的行程规划算法](https://4evour.github.io/blog/tour-pass-algorithm/)
+- [我做了一个 C++ 旅游行程规划服务](https://4evour.github.io/blog/tour-pass-architecture/)
+- [Tour Pass 的工程化和面试演示链路](https://4evour.github.io/blog/tour-pass-engineering/)
 - [我做了一个景区智能导览系统](https://4evour.github.io/blog/scenic-guide-architecture/)
-- [我把 Live2D 数字人接进了导览系统](https://4evour.github.io/blog/scenic-guide-digital-human/)
-- [我在景区导览项目里怎么做 RAG](https://4evour.github.io/blog/scenic-guide-rag/)
-- [test1](https://4evour.github.io/blog/test1/)<!-- BLOG-POST-LIST:END -->
+- [我把 Live2D 数字人接进了导览系统](https://4evour.github.io/blog/scenic-guide-digital-human/)<!-- BLOG-POST-LIST:END -->
 
 ## Contributions
 
