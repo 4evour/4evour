@@ -32,11 +32,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [春物同人](https://4evour.github.io/blog/d5147b89f599/)
+- [景区导览系统 6 月更新：从演示链路到游客闭环](https://4evour.github.io/blog/scenic-guide-june-update/)
+- [Tour Pass 6 月更新：从 C++ 算法服务到 AI 行程平台](https://4evour.github.io/blog/tour-pass-ai-agent-platform/)
 - [Tour Pass 的真实数据流水线和演示视频](https://4evour.github.io/blog/tour-pass-real-data-demo/)
-- [Tour Pass 里的行程规划算法](https://4evour.github.io/blog/tour-pass-algorithm/)
-- [我做了一个 C++ 旅游行程规划服务](https://4evour.github.io/blog/tour-pass-architecture/)
-- [Tour Pass 的工程化和面试演示链路](https://4evour.github.io/blog/tour-pass-engineering/)
-- [我做了一个景区智能导览系统](https://4evour.github.io/blog/scenic-guide-architecture/)<!-- BLOG-POST-LIST:END -->
+- [Tour Pass 里的行程规划算法](https://4evour.github.io/blog/tour-pass-algorithm/)<!-- BLOG-POST-LIST:END -->
 
 ## Contributions
 
