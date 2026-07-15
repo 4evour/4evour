@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![4evour's GitHub stats](https://github-readme-stats.vercel.app/api?username=4evour&show_icons=true&theme=transparent&hide_border=true)
+![4evour's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=4evour&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4evour&layout=compact&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=4evour&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
