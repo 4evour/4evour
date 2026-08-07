@@ -7,7 +7,7 @@
 ## About Me
 
 - Computer Science and Technology student at Jinggangshan University.
-- Currently learning C++, data structures, algorithms, and software engineering basics.
+- Currently learning Agent, golang, algorithms, and software engineering basics.
 - Writing notes and thoughts at [4evour.github.io](https://4evour.github.io).
 
 ## Tech Stack
