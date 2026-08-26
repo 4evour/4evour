@@ -31,11 +31,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [从寄存器到协程：把进程、线程、协程从底层推导一遍](https://4evour.github.io/blog/process-thread-coroutine/)
+- [RAG 进阶 · 新一代架构](https://4evour.github.io/blog/rag-advanced-architecture/)
+- [RAG 入门 · 一篇搞懂](https://4evour.github.io/blog/rag-introduction/)
 - [春物同人](https://4evour.github.io/blog/d5147b89f599/)
-- [景区导览系统 6 月更新：从演示链路到游客闭环](https://4evour.github.io/blog/scenic-guide-june-update/)
-- [Tour Pass 6 月更新：从 C++ 算法服务到 AI 行程平台](https://4evour.github.io/blog/tour-pass-ai-agent-platform/)
-- [Tour Pass 的真实数据流水线和演示视频](https://4evour.github.io/blog/tour-pass-real-data-demo/)
-- [Tour Pass 里的行程规划算法](https://4evour.github.io/blog/tour-pass-algorithm/)<!-- BLOG-POST-LIST:END -->
+- [景区导览系统 6 月更新：从演示链路到游客闭环](https://4evour.github.io/blog/scenic-guide-june-update/)<!-- BLOG-POST-LIST:END -->
 
 ## Contributions
 
