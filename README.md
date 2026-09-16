@@ -31,11 +31,11 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [27 届双非计科：1500 次招呼后，我结束了第一段 AI 实习](https://4evour.github.io/blog/ai-internship-review/)
+- [后端八股总结 · 消息队列篇](https://4evour.github.io/blog/message-queue-interview-notes/)
 - [从寄存器到协程：把进程、线程、协程从底层推导一遍](https://4evour.github.io/blog/process-thread-coroutine/)
 - [RAG 进阶 · 新一代架构](https://4evour.github.io/blog/rag-advanced-architecture/)
-- [RAG 入门 · 一篇搞懂](https://4evour.github.io/blog/rag-introduction/)
-- [春物同人](https://4evour.github.io/blog/d5147b89f599/)
-- [景区导览系统 6 月更新：从演示链路到游客闭环](https://4evour.github.io/blog/scenic-guide-june-update/)<!-- BLOG-POST-LIST:END -->
+- [RAG 入门 · 一篇搞懂](https://4evour.github.io/blog/rag-introduction/)<!-- BLOG-POST-LIST:END -->
 
 ## Contributions
 
